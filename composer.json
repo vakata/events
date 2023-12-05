@@ -1,0 +1,26 @@
+{
+    "name": "vakata/events",
+    "description": "A minimal PHP event dispatcher",
+    "keywords": [
+        "vakata",
+        "events"
+    ],
+    "homepage": "https://github.com/vakata/events",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vakata",
+            "email": "github@vakata.com",
+            "homepage": "http://www.vakata.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vakata\\events\\": "src"
+        }
+    }
+}
