@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace helpers\events;
+namespace vakata\events;
 
 class Event implements EventInterface
 {
