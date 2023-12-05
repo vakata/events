@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-Contribute via Pull Requests on [Github](https://github.com/vakata/html).
+Contribute via Pull Requests on [Github](https://github.com/vakata/events).
 
 
 ## Pull Requests
